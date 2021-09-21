@@ -1,4 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+https://github-readme-stats.vercel.app/api?username=anudeeptadikamalla
 
 <!--
 **anudeeptadikamalla/anudeeptadikamalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
