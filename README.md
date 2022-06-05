@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="10px">
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
 
 - 🔭 I’m currently persuing <strong>B.Tech in Comp. Sci. at SRM University, AP</strong>
 - 🌱 I’m currently working on <strong>Web-Development.</strong>
